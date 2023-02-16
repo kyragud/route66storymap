@@ -9,7 +9,7 @@
 }
 
 h2 {
-  color: var(--ashgray);
+  color: #AFD0BF;
 }
 
 
@@ -18,6 +18,7 @@ body {
   margin: 0px;
   font-family: "Helvetica", sans-serif;
   overflow: hidden;
+  background-color: #E2EFDE
 }
 
 #map {
