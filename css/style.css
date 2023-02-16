@@ -2,7 +2,7 @@
   --honeydew: #E2EFDE;
   --ashgray: #AFD0BF;
   --battleship-gray: #808F87;
-  --chamoisee: #9B7E46
+  --chamoisee: #9B7E46;
   --earth-yellow: #F4B266;
   
    --heading-size: 2em;
@@ -63,7 +63,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: light-gray;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -183,10 +183,12 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  background-color: #F4B266;
 }
 
 h2 {
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
+  background-color: #9B7E46;
 }
