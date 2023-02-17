@@ -7,16 +7,21 @@
   
    --heading-size: 2em;
 }
-
-h2 {
-  color: #AFD0BF;
+* {
+  font-family: 'Josefin Sans', sans-serif;
 }
 
+h2 {
+  color: #9B7E46;
+}
 
+h3 {
+  color: #808F87;
+}
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   overflow: hidden;
   background-color: #E2EFDE
 }
